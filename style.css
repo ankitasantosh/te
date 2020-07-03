@@ -1,0 +1,37 @@
+body
+{
+font-style:normal;
+font-size:15px;
+}
+li
+{
+  list-style:none;
+}
+.container
+{
+  width:70%;
+  margin: 20px auto;
+  overflow: auto;
+}
+.pull-left{float:left;}
+.pull-right{float:right;}
+
+header
+{
+  background:#0000FF;
+  color:#FFFFFF;
+  padding: 5px 10px;
+  overflow: auto;
+  font-size:16px
+
+}
+
+footer
+{
+  background:#0000FF;
+  color:#FFFFFF;
+  padding: 5px 10px;
+  overflow: auto;
+  font-size:16px;
+
+}
